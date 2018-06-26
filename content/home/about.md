@@ -10,31 +10,25 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Data miming",
+    "Embedded computing"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "M.S. in Microelectronic Engineering"
+  institution = "Huazhong University of Science & Technology"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "B.S. in Optoelectronic Information Engineering"
+  institution = "Huazhong University of Science & Technology"
+  year = 2016
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
-# Biography
+# About me
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I am a master student in Microelectronic Engineering Department at HUST. Currently, I am advised by Dr.Xiaowei Xu and I am doing research in CPSIL lab led by Prof.Yu Hu. My research focus is on time series data miming and embedded computing. We hope to design new optimized and energy-efficiency embedded architecture to accelerate distance function in data miming and apply deep learning algorithms to solve real world problems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+In addition, I am a passionate learner and willing to try new technologies. I also enjoy talking and sharing ideas with other people.
